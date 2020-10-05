@@ -1,0 +1,11 @@
+C:\Users\melta\Desktop\SBU\Spring 2020\CSE 532 - ToDB\Assignments\HW 1 - New>db2 -tf q3b.sql
+
+BUYER_ZIP   TOTAL_MME_PER_PERSON     RANK_ZPOP
+----------- ------------------------ --------------------
+      14173   +1.24165000000000E+005                    1
+      10119   +8.56720000000000E+004                    2
+      10535   +5.46120000000000E+004                    3
+      12775   +3.26000000000000E+004                    4
+      12754   +2.56590000000000E+004                    5
+
+  5 record(s) selected.
